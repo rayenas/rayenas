@@ -31,6 +31,9 @@
 <a href="https://www.instagram.com/rayen_askry/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
 </a>
+  <a href="https://profile-tawny-sigma.vercel.app/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rayenas/portfolio-/e440437b621c4245e23013d050a4019746167e42/public/favicon.svg" height="30" width="40" />
+</a>
 </p>
 
 ---
